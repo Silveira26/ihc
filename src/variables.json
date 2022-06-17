@@ -1,0 +1,145 @@
+{
+    "topGames" : [
+    {"rank":1, "art":"/games/eldenRing/icon.png" , "title":"Elden Ring", "year":2022, "score":9.14,"yourScore":"N/A","status":"Playing","review":""},
+    {"rank":2, "art":"/games/nierAutomata/icon.png" , "title":"NieR: Automata", "year":2017, "score":9.09,"yourScore":"N/A","status":"Not played","review":""},
+    {"rank":3, "art":"/games/xenoblade/icon.png" , "title":"Xenoblade Chronicles", "year":2010, "score": 9.08,"yourScore":9,"status":"Completed","review":""},
+    {"rank":4, "art":"/games/persona5/icon.png" , "title":"Persona 5", "year":2017, "score":9.05,"yourScore":"N/A","status":"Dropped","review":""},
+    {"rank":5, "art":"/games/celeste/icon.png" , "title":"Celeste", "year":2018, "score":9.04,"yourScore":8,"status":"Completed","review":""},
+    {"rank":6, "art":"/games/gunvolt1/icon.png", "title":"Gunvolt","year":2014, "score":9.03,"yourScore":"N/A","status":"Not played","review":""},
+    {"rank":7, "art":"/games/hades/icon.png", "title":"Hades","year":2020, "score":9.02,"yourScore":"N/A","status":"Not played","review":""},
+    {"rank":8,"art":"/games/superMarioBrothers/icon.png" , "title":"Super Mario Bros","year":1985, "score":9.01,"yourScore":"N/A","status":"Not played","review":""},
+    {"rank":9, "art":"/games/undertale/icon.png" , "title":"Undertale","year":2015, "score":9,"yourScore":"N/A","status":"Not played","review":""},
+    {"rank":10, "art":"/games/cod/icon.jpg" , "title":"Call of Duty","year":2018, "score":8.99,"yourScore":10,"status":"Completed","review":""},
+    {"rank":11, "art":"/games/minecraft/icon.png" , "title":"Minecraft","year":2009, "score":8.98,"yourScore":"N/A","status":"Not played","review":""},
+    {"rank":12, "art":"/games/gta5/icon.jpg" , "title":"GTA 5","year":2013, "score":8.97,"yourScore":10,"status":"Completed","review":""},
+    {"rank":13, "art":"/games/csgo/icon.jpg" , "title":"CS GO","year":2012, "score":8.94,"yourScore":10,"status":"Completed","review":""},
+    {"rank":14, "art":"/games/uncharted/icon.jpg" , "title":"Uncharted","year":2007, "score":8.93,"yourScore":10,"status":"Completed","review":""},
+    {"rank":15, "art":"/games/godofwar/icon.jpg" , "title":"God Of War","year":2018, "score":8.92,"yourScore":10,"status":"Completed","review":""},
+    {"rank":16, "art":"/games/fallguys/icon.jpg" , "title":"Fall Guys","year":2020, "score":8.92,"yourScore":10,"status":"Completed","review":""},
+    {"rank":17, "art":"/games/fifa22/icon.png" , "title":"FIFA 22","year":2021, "score":8.90,"yourScore":10,"status":"Completed","review":""},
+    {"rank":18, "art":"/games/amongus/icon.png" , "title":"Among Us","year":2018, "score":8.89,"yourScore":10,"status":"Completed","review":""},
+    {"rank":19, "art":"/games/lol/icon.webp" , "title":"League of Legends","year":2009, "score":8.88,"yourScore":10,"status":"Completed","review":""},
+    {"rank":20, "art":"/games/rust/icon.png" , "title":"Rust","year":2013, "score":8.88,"yourScore":10,"status":"Completed","review":""},
+    {"rank":21, "art":"/games/darkSouls3/icon.png" , "title":"Dark Souls 3","year":2016, "score":8.86,"yourScore":"N/A","status":"Not played","review":""},
+    {"rank":22, "art":"/games/anno1800/icon.png" , "title":"Anno 1800","year":2019, "score":8.86,"yourScore":"N/A","status":"Not played","review":""},
+    {"rank":23, "art":"/games/portal2/icon.png" , "title":"Portal 2","year":2011, "score":8.85,"yourScore":"N/A","status":"Not played","review":""},
+    {"rank":24, "art":"/games/tf2/icon.png" , "title":"Team Fortress 2","year":2007, "score":8.70,"yourScore":"N/A","status":"Not played","review":""},
+    {"rank":25, "art":"/games/pubg/icon.png" , "title":"PUBG","year":2017, "score":8.69,"yourScore":"N/A","status":"Not played","review":""},
+    {"rank":26, "art":"/games/dota2/icon.png" , "title":"DOTA 2","year":2013, "score":8.67,"yourScore":"N/A","status":"Not played","review":""},
+
+    {"rank":27, "art":"/games/farCry/icon.png" , "title":"Far Cry","year":2004, "score":8.65,"yourScore":"N/A","status":"Not played","review":""},
+    {"rank":28, "art":"/games/farCry2/icon.png" , "title":"Far Cry 2","year":2008, "score":8.63,"yourScore":"N/A","status":"Not played","review":""},
+    {"rank":29, "art":"/games/farCry3/icon.png" , "title":"Far Cry 3","year":2012, "score":8.63,"yourScore":"N/A","status":"Not played","review":""},
+    {"rank":30, "art":"/games/farCry4/icon.png" , "title":"Far Cry 4","year":2014, "score":8.62,"yourScore":"N/A","status":"Not played","review":""},
+    {"rank":31, "art":"/games/farCry5/icon.png" , "title":"Far Cry 5","year":2018, "score":8.61,"yourScore":"N/A","status":"Not played","review":""},
+    {"rank":32, "art":"/games/farCry6/icon.png" , "title":"Far Cry 6","year":2021, "score":8.60,"yourScore":"N/A","status":"Not played","review":""}
+
+
+  ],
+
+  "top10cunha":[
+    {"title":"Hades", "img": "/games/hades/icon.png"},
+    {"title":"Dark Souls 3", "img":"/games/darkSouls3/icon.png"},
+    {"title":"Celeste", "img":"/games/celeste/icon.png"},
+    {"title":"Persona 5", "img":"/games/persona5/icon.png"},
+    {"title":"GTA 5", "img":"/games/gta5/icon.jpg"},
+    {"title":"Anno 1800", "img":"/games/anno1800/icon.png"},
+    {"title":"Portal 2", "img":"/games/portal2/icon.png"},
+    {"title":"Team Fortress 2","img":"/games/tf2/icon.png"},
+    {"title":"PUBG","img":"/games/pubg/icon.png"},
+    {"title":"DOTA 2","img":"/games/dota2/icon.png"}
+
+
+
+  ],
+  "top10pedro":[
+    {"title":"GTA 5", "img": "/games/gta5/icon.jpg"},
+    {"title":"CS GO", "img": "/games/csgo/icon.jpg"},
+    {"title":"Uncharted", "img": "/games/uncharted/icon.jpg"},   
+    {"title":"God Of War", "img": "/games/godofwar/icon.jpg"},
+    {"title":"Fall Guys", "img": "/games/fallguys/icon.jpg"},
+    {"title":"FIFA 22", "img": "/games/fifa22/icon.png"},
+    {"title":"Among Us", "img": "/games/amongus/icon.png"},
+    {"title":"LOL", "img": "/games/lol/icon.webp"},
+    {"title":"Call Of Duty", "img": "/games/cod/icon.jpg"},
+    {"title":"Rust", "img": "/games/rust/icon.png"}
+  ],
+  
+  
+    "status":[
+    {"status":"Playing"},
+    {"status":"Completed"},
+    {"status":"On Hold"},
+    {"status":"Dropped"},
+    {"status":"Plan To Play"},
+    {"status":"Not played"}
+  ],
+
+  "friendsPedro":[
+    
+      {"img":"/avatar/Cunha.webp", "name":"Cunha"},
+      {"img":"/avatar/Danik.webp", "name":"Danik"},
+      {"img":"/avatar/Kaluza.webp", "name":"Kaluza"},
+      {"img":"/avatar/Silveira.webp", "name":"Silveira"},
+      {"img":"/avatar/Vicente.webp", "name":"Vicente"},
+      {"img":"/avatar/Strom.webp", "name":"Strom"},
+      {"img":"/avatar/Xanex.webp", "name":"Xanex"},
+      {"img":"/avatar/Guida.jpg", "name":"Guida"},
+      {"img":"/avatar/Cunha.webp", "name":"Cunha"},
+      {"img":"/avatar/Danik.webp", "name":"Danik"},
+      {"img":"/avatar/Kaluza.webp", "name":"Kaluza"},
+      {"img":"/avatar/Silveira.webp", "name":"Silveira"},
+      {"img":"/avatar/Vicente.webp", "name":"Vicente"},
+      {"img":"/avatar/Strom.webp", "name":"Strom"},
+      {"img":"/avatar/Xanex.webp", "name":"Xanex"},
+      {"img":"/avatar/Guida.jpg", "name":"Guida"}
+  ],
+
+  "friendsCunha":[
+      {"img":"/avatar/Pedrocarush.webp", "name":"Pedrocarush"},
+      {"img":"/avatar/Danik.webp", "name":"Danik"},
+      {"img":"/avatar/Kaluza.webp", "name":"Kaluza"},
+      {"img":"/avatar/Silveira.webp", "name":"Silveira"},
+      {"img":"/avatar/Vicente.webp", "name":"Vicente"},
+      {"img":"/avatar/Strom.webp", "name":"Strom"},
+      {"img":"/avatar/Xanex.webp", "name":"Xanex"},
+      {"img":"/avatar/Guida.jpg", "name":"Guida"},
+      {"img":"/avatar/Pedrocarush.webp", "name":"Pedrocarush"},
+      {"img":"/avatar/Danik.webp", "name":"Danik"},
+      {"img":"/avatar/Kaluza.webp", "name":"Kaluza"},
+      {"img":"/avatar/Silveira.webp", "name":"Silveira"},
+      {"img":"/avatar/Vicente.webp", "name":"Vicente"},
+      {"img":"/avatar/Strom.webp", "name":"Strom"},
+      {"img":"/avatar/Xanex.webp", "name":"Xanex"},
+      {"img":"/avatar/Guida.jpg", "name":"Guida"}
+  ],
+
+  "users":[
+    {"img":"/avatar/Pedrocarush.webp", "name":"Pedrocarush"},
+    {"img":"/avatar/Cunha.webp", "name":"Cunha"},
+    {"img":"/avatar/Danik.webp", "name":"Danik"},
+    {"img":"/avatar/Kaluza.webp", "name":"Kaluza"},
+    {"img":"/avatar/Silveira.webp", "name":"Silveira"},
+    {"img":"/avatar/Vicente.webp", "name":"Vicente"},
+    {"img":"/avatar/Strom.webp", "name":"Strom"},
+    {"img":"/avatar/Xanex.webp", "name":"Xanex"},
+    {"img":"/avatar/Guida.jpg", "name":"Guida"}
+],
+
+  "uniqueCunha":[
+    {"rank":7, "art":"/games/hades/icon.png", "title":"Hades","year":2020, "score":9},
+    {"rank":21, "art":"/games/darkSouls3/icon.png" , "title":"Dark Souls 3","year":2016, "score":8}
+  ],
+
+  "uniquePedro":[
+    {"rank":15, "art":"/games/godofwar/icon.jpg" , "title":"God Of War","year":2018, "score":10},
+    {"rank":16, "art":"/games/fallguys/icon.jpg" , "title":"Fall Guys","year":2020, "score":10}
+  ],
+  "sharedGames":[
+    {"rank":12, "art":"/games/gta5/icon.jpg" , "title":"GTA 5","year":2013, "cunhaScore":9,"pedroScore":10,"difference":1},
+    {"rank":13, "art":"/games/csgo/icon.jpg" , "title":"CS GO","year":2012, "cunhaScore":8,"pedroScore":10,"difference":2},
+    {"rank":14, "art":"/games/uncharted/icon.jpg" , "title":"Uncharted","year":2007, "cunhaScore":8,"pedroScore":10,"difference":2}
+  ]
+    
+    
+}
